@@ -1,0 +1,6 @@
+"Reference","Value","Package","LCSC Part"
+"U1","74HC595D","SOP-16","C5144558"
+"R3,R4,R5,R6,R7,R8,R9,R10","300R","1206","C17887"
+"R1,R2","100k","1206","C17900"
+"DS1","SM420561N","Through Hole","C141367"
+"C1","1uF","1206","C1848"
