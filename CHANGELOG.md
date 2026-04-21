@@ -4,7 +4,7 @@ Each version captures specific changes categorized under "Added", "Changed", "Re
 
 ## v0.1
 
-Device image here
+![Device in version 0.1](media/version-images/solderbit-segment-shift-edition-v0.1.png "solder:bit Segment Shift Edition v0.1")
 
 ### Added
 
