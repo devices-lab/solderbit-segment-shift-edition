@@ -129,7 +129,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../devices-lab/DL-029-v0.1/")
+			(outputdirectory "../fabrication/gerbers-v0.1/")
 		)
 	)
 	(net 0 "")
@@ -2707,6 +2707,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3981,7 +3982,6 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16_3.9x9.9mm_P1.27mm.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)

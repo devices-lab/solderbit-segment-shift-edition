@@ -1,4 +1,4 @@
-# Changelog for solder:bit Segment
+# Changelog for solder:bit Segment Shift Edition
 
 Each version captures specific changes categorized under "Added", "Changed", "Removed", and "Fixed" to provide an overview of the development progression.
 

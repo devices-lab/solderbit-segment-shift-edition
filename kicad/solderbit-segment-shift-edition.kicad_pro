@@ -506,7 +506,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../devices-lab/DL-029-v0.1/",
+      "plot": "../fabrication/gerbers-v0.1/",
       "pos_files": "../devices-lab/DL-029-v0.1/",
       "specctra_dsn": "",
       "step": "",

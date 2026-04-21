@@ -47,11 +47,11 @@ _\* Generic component; the order code is provided as a reference, but any equiva
 
 Note that U1 and U2 are alternative packages for the same 74HC595 component — you only need one. You can source both and choose whichever you are more comfortable soldering.
 
-The 7-segment display(s) listed above has red segments. If you would like other colours, note that you might need to adjust R3-R10 resistor values. Also note that you will need a larger resistor value (at least 350 Ω)if you are powering the device with 5 V instead of 3.3 V. This is to ensure the output current from all output pins on the shift register doesn't exceed 70 mA in total.
+The 7-segment display(s) listed above has red segments. If you would like other colours, note that you might need to adjust R3-R10 resistor values. Also note that you will need a larger resistor value (at least 350 Ω) if you are powering the device with 5 V instead of 3.3 V. This is to ensure the output current from all output pins on the shift register doesn't exceed 70 mA in total.
 
 Depending on how you plan to connect the solder:bit Segment _Shift Edition_ to your microcontroller development board, you may also need a breadboard and some jumper cables.
 
-## Development board
+### Development board
 
 You can use a BBC micro:bit to control the solder:bit Segment _Shift Edition_. Once assembled, attach the device to a breadboard, plug the micro:bit into a [breadboard adaptor](https://kitronik.co.uk/products/5664-microbit-breadboard-breakout-board), and connect it to the breadboard. See the [programming](#programming) section below to see how to wire it up.
 
@@ -103,7 +103,7 @@ Coming soon...
 
 If you are using a BBC micro:bit, you can program the solder:bit Segment _Shift Edition_ in [MakeCode](https://makecode.microbit.org/) using the [pxt-solderbit-segment](https://github.com/devices-lab/pxt-solderbit-segment) extension.
 
-You can test if your assembled device works by flashing the micro:bit with the [demo file](/demo/microbit-solderbit-segment-demo.hex). Attach the solder:bit Segment _Shift Edition_ to a breadboard, insert the micro:bit into a [breadboard adaptor](https://kitronik.co.uk/products/5664-microbit-breadboard-breakout-board), and plug it into the breadboard. Connect the device to the micro:bit using the following pinout:
+You can test if your assembled device works by flashing the micro:bit with the [demo file](/demo/microbit-solderbit-segment-shift-edition-demo.hex). Attach the solder:bit Segment _Shift Edition_ to a breadboard, insert the micro:bit into a [breadboard adaptor](https://kitronik.co.uk/products/5664-microbit-breadboard-breakout-board), and plug it into the breadboard. Connect the device to the micro:bit using the following pinout:
 
 | solder:bit Segment _Shift Edition_ | BBC micro:bit |
 | ---------------------------------- | ------------- |
