@@ -2624,7 +2624,7 @@
 	)
 	(text_box "You can choose between U1 (SOP-16) or U2 (DIP-16). Both are the same shift register in different packages. The larger through-hole DIP-16 is easier to solder for beginners, while the smaller SOP-16 offers a challenge for those with more experience."
 		(exclude_from_sim no)
-		(at 41.275 104.14 0)
+		(at 43.18 106.045 0)
 		(size 57.15 12.065)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -4352,7 +4352,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1949c5a3-78e5-4a40-85d1-19cdbaf63220")
 		(property "Reference" "J1"
 			(at 171.196 105.41 0)
